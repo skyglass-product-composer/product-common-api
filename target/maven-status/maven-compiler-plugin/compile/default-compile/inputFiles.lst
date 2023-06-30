@@ -1,0 +1,16 @@
+/Users/mykhailo.skliar/skyglass/skyglass-product-composer/product-common-api/src/main/java/se/magnus/api/exceptions/NotFoundException.java
+/Users/mykhailo.skliar/skyglass/skyglass-product-composer/product-common-api/src/main/java/se/magnus/api/composite/product/RecommendationSummary.java
+/Users/mykhailo.skliar/skyglass/skyglass-product-composer/product-common-api/src/main/java/se/magnus/api/composite/product/ServiceAddresses.java
+/Users/mykhailo.skliar/skyglass/skyglass-product-composer/product-common-api/src/main/java/se/magnus/api/core/recommendation/Recommendation.java
+/Users/mykhailo.skliar/skyglass/skyglass-product-composer/product-common-api/src/main/java/se/magnus/api/core/review/ReviewService.java
+/Users/mykhailo.skliar/skyglass/skyglass-product-composer/product-common-api/src/main/java/se/magnus/api/exceptions/BadRequestException.java
+/Users/mykhailo.skliar/skyglass/skyglass-product-composer/product-common-api/src/main/java/se/magnus/api/event/Event.java
+/Users/mykhailo.skliar/skyglass/skyglass-product-composer/product-common-api/src/main/java/se/magnus/api/core/review/Review.java
+/Users/mykhailo.skliar/skyglass/skyglass-product-composer/product-common-api/src/main/java/se/magnus/api/exceptions/EventProcessingException.java
+/Users/mykhailo.skliar/skyglass/skyglass-product-composer/product-common-api/src/main/java/se/magnus/api/exceptions/InvalidInputException.java
+/Users/mykhailo.skliar/skyglass/skyglass-product-composer/product-common-api/src/main/java/se/magnus/api/composite/product/ProductAggregate.java
+/Users/mykhailo.skliar/skyglass/skyglass-product-composer/product-common-api/src/main/java/se/magnus/api/composite/product/ReviewSummary.java
+/Users/mykhailo.skliar/skyglass/skyglass-product-composer/product-common-api/src/main/java/se/magnus/api/core/product/Product.java
+/Users/mykhailo.skliar/skyglass/skyglass-product-composer/product-common-api/src/main/java/se/magnus/api/composite/product/ProductCompositeService.java
+/Users/mykhailo.skliar/skyglass/skyglass-product-composer/product-common-api/src/main/java/se/magnus/api/core/recommendation/RecommendationService.java
+/Users/mykhailo.skliar/skyglass/skyglass-product-composer/product-common-api/src/main/java/se/magnus/api/core/product/ProductService.java
