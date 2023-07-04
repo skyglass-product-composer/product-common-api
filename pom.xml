@@ -7,7 +7,7 @@
     
     <groupId>se.magnus.microservices.api</groupId>
     <artifactId>product-common-api</artifactId>
-    <version>0.1</version>
+    <version>0.2</version>
     
     <properties>
         <springBootVersion>2.5.2</springBootVersion>
